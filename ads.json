@@ -1,1 +1,18 @@
-{}
+{
+    "prot1": {
+        "projectName": "prot1",
+        "description": "prot1",
+        "type": "community",
+        "author": "septk",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/septk/prot1",
+        "githubUri": "https://github.com/septk/prot1",
+        "license": "apache-2.0",
+        "lastUpdated": "1707308931130",
+        "tags": [
+            "authorization"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
